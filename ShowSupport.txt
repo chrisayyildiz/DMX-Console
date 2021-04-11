@@ -1,0 +1,81 @@
+MUSIC
+	Band
+
+
+Description:
+
+A group of musicians and vocalists who play various instruments. Colour palettes range below through different genres of music which are played on stage. This type of performance is generally performed to an audience, therefore bold colours work well to create your desired atmosphere. 
+
+
+Stage fill:
+
+1. Create a small (face lighting) circle on centre stage to illuminate the band members’ faces and instruments. Aim to cover just over the amount of space they take up incase they choose to move around the stage throughout the show. An intensity of around 50% should be enough to focus the right amount of attention on the performers without taking out the effect of the next step. 
+2. With any remaining RGB lights, set them to some of the colours listed below. Flashing these on and off (step-by-step) will create a solid atmosphere which matches the band’s set. 
+
+
+
+
+
+MUSIC
+	Solo Performance
+
+
+Description:
+
+A solo musician/vocalist performing a piece, typically to an audience.
+
+
+Stage fill:
+
+1. Create a very small (back lighting) circle on Down Stage Centre to create a silhouette effect on the performer. The aim is to see light visibly around their outline.
+2. Depending on the type of atmosphere you aim to create, introduce different levels of face lighting onto the performer to draw attention to them. Ensure the face light is not as bright as the back light in order to maintain the previous effect.
+3. With any remaining RGB lights, set them to some of the colours listed below. Leave these lights on at fixed intensities to avoid them becoming too distracting.
+
+
+
+
+
+THEATRE	Pantomime
+
+
+Description:
+
+This is a type of musical comedy stage production designed for family entertainment. Pantomime season typically runs through Christmas and the New Year across theatres.
+
+
+Stage fill:
+
+1. Wash the floor with straw/warm lighting to illuminate the actors’ faces.
+2. Using RGB lights, scatter bold pastel colours with some reds and blues across the stage to create a family friendly atmosphere. It is important to use warm tones to avoid a harsh and unwelcoming look.
+
+
+
+
+
+THEATRE	Monologue
+
+Description:
+A solo theatrical performance typically prioritising dialogue over action. Monologue’s usually carry a specific message which they aim to express throughout the act to evoke the emotions of the audience.
+
+
+Stage fill:
+
+1. Light a small area of the stage with a Fresnel or Spotlight to illuminate the performer. Keeping the majority of the stage dark will direct the audience’s attention onto the performer and not the surrounding scenery which is vital in creating an expressive show.
+2. Illuminate any props/structures on stage when they become active throughout the show.
+
+
+
+
+
+THEATRE	Horror Show
+
+
+Description:
+
+A theatrical performance with revolving themes of suspense, tension and shock in an attempt to convey a “scary” atmosphere to the audience. Typically, these shows are dimly lit and use red hues and cold colour tones (listed below) which symbolise a “scary” theme.
+
+
+Stage fill:
+
+1. Cover the stage in dim face lighting (ideally colder hues of white)
+2. Introduce reds and oranges across the stage to create a “scary” atmosphere
